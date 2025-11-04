@@ -1,0 +1,30 @@
+body {
+			display: flex;
+			flex-direction: column;
+			alight-items: center;
+			
+			}
+			.css-person img{
+			max-width: 80%;
+			height: auto;
+			display: block;
+			margin: 10px auto;
+			}
+			.css-button1 {
+			background: blue;
+			color: white;
+			padding: 20px;
+			font-size: 60px;
+			border-radius: 30px;
+			}
+			.css-reset {
+			background: red;
+			colot: white;
+			padding: 15px;
+			font-size: 40px;
+			border-radius: 25px;
+			}
+			.css-header {
+			font-size: 60px;
+			
+			}
